@@ -1,0 +1,8 @@
+python==3.10.11
+tenserflow==2.10.0
+pillow==9.5.0
+numpy==1.23.5
+opencv-python-headless==4.8.1.78
+matplotlib==3.7.3
+tqdm==4.66.1
+tflearn==0.5.0
